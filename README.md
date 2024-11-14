@@ -162,7 +162,7 @@ Hasilnya
 ![View](view2.png)
 
 ### Edit
-![View](edit.png.png)
+![View](edit.png)
 
 Klik tombol edit akan muncul modal
 ```html
@@ -225,7 +225,7 @@ editMahasiswa() {
       })
   }
 ```
-![View](hapus.png)
+![View](delete.png)
 
 Saat klik hapus akan menggunakan metode confirmHapusMahasiswa yang akan membuat modal konfirmasi. Kalau klik batal akan tidak jadi dan kalau klik hapus akan lanjut ke hapusMahasiswa
 ```html
